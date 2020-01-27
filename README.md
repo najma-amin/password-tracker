@@ -44,3 +44,12 @@ requirements
 python3.6
 
 
+### Support and contact details
+
+For contact najmaamin10@gmail.com.
+### Known Bug
+
+credential_test.py 
+Ran 8 tests in 0.014s
+
+FAILED (failures=2, errors=1)
