@@ -28,3 +28,19 @@ requirements
     clone this repository.
     Open this file using the terminal run $ chmod +x run.py and ./run.py to launch the programme.
     Make relevant changes and create a pull request.
+
+
+### Setup/Installation Requirements
+
+- Open terminal/command prompt.
+- Clone the application`git clone https://github.com/najma-amin/password-locker.git`
+- Navigate into the folder `cd password-locker`
+- to use atom to open code type `atom .` or `code .` for visual studio.
+
+
+
+### Technologies Used
+
+python3.6
+
+
