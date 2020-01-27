@@ -142,7 +142,7 @@ def main():
        else:
            print("-"*40)
            print(' ')
-           print('Incorrect entry. Try again.')
+           print(' incorrect entry. Try again.')
                 
 if __name__ == "__main__":
    main()
