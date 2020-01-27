@@ -33,7 +33,7 @@ requirements
 ### Setup/Installation Requirements
 
 - Open terminal/command prompt.
-- Clone the application`git clone https://github.com/najma-amin/password-locker.git`
+- Clone the application`git clone https://github.com/najma-amin/password-tracker.git`
 - Navigate into the folder `cd password-locker`
 - to use atom to open code type `atom .` or `code .` for visual studio.
 
